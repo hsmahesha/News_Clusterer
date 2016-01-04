@@ -1,0 +1,162 @@
+Step 0 -
+
+Update your machine with -
+
+ $ sudo apt-get install ssh
+ $ sudo apt-get install rsync
+
+###Machine 1(master).
+ 
+Pre-requisite:
+ 
+java version
+ 
+	java -version
+	java version "1.7.0_25"
+	Java(TM) SE Runtime Environment (build 1.7.0_25-b15)
+	Java HotSpot(TM) 64-Bit Server VM (build 23.25-b01, mixed mode)
+ 
+	$export JAVA_HOME=/usr/local/java/jdk1.7.0_25 // Here we need to put our java installation directory
+ 
+	Hadoop Stable version:2.6.0
+ 
+ 
+setup steps(For single node cluster)
+ 
+ 	mkdir -p <<your directory>>/hadoop-2.6.0
+ 	Unzip hadoop2.6 in <<your directory>>/hadoop-2.6.0
+
+Create distributed filesystem file
+ 
+        cd <<your directory>> 
+	mkdir -p hdtmp
+	chmod 777 hdtmp 
+ 
+ 
+connection to localhost with ssh passwordless
+ 
+-generate the public private keys
+ 
+	$ ssh-keygen -t dsa -P '' -f ~/.ssh/id_dsa
+ 
+-authorize the key by adding it to the list of authorized keys
+ 
+	$ cat ~/.ssh/id_dsa.pub >> ~/.ssh/authorized_keys
+ 
+-test that you can log in with no password
+ O
+	$ ssh localhost
+ 
+open hadoop-env.sh from <<Your Installation Directory>>/etc/hadoop and update $JAVA_HOME
+ 
+	export JAVA_HOME="/usr/local/java/jdk1.7.0_25" // Here we need to put our java installation directory
+ 
+#### Open core-site.xml,mapred-site.xml,hdfs-site.xml
+ 
+####-core-site.xml #####
+add both property tag in configuration tags <configuration>
+	<property>
+		<name>hadoop.tmp.dir</name>
+		<value><<your directory>>/hdtmp</value> 
+		<description>A base for other temporary directories.
+		</description>
+	</property>
+ 
+	<property>
+		<name>fs.default.name</name>
+		<value>hdfs://localhost:54310</value>
+		<description>
+		The name of the default file system. A URI whose scheme and authority determine the FileSystem implementation.  The uri's scheme determines the config property(fs.SCHEME.impl) naming the FileSystem implementation class. The uri's authority is used to determine the host, port, etc.for a filesystem.
+		</description>
+	</property>
+ 
+####-mapred-site.xml####
+#### This file will be needed to be created from mapred-site.xml.template
+
+######-On Hadoop(2.x) MR2(YARN)
+ 
+add below property in mapred-site.xml
+ 
+	<property>
+		<name>mapreduce.framework.name</name>
+		<value>yarn</value>
+	</property>
+ 
+and add below property in yarn-site.xml
+	<property>
+		<name>yarn.nodemanager.aux-services</name>
+		<value>mapreduce_shuffle</value>
+	</property>
+ 
+	<property>
+		<name>yarn.nodemanager.aux-services.mapreduce.shuffle.class</name>
+		<value>org.apache.hadoop.mapred.ShuffleHandler</value>
+	</property>
+ 
+ 
+####-hdfs-site.xml#########
+ 
+The default block size is 128MB, files pushed on datanodes will split up in 128MB block size and replication.
+ 
+	<property>
+		<name>dfs.replication</name>
+		<value>1</value>  // default is 3, since its single node we use 1.
+		<description>Default block replication.The actual number of replications can be specified when the file is created. The default is used if replication is not specified in create time.
+		</description>
+	</property>
+ 
+9.
+        cd <<your hadoop installation directory>>
+	$bin/hadoop namenode -format
+10.
+        $sbin/start-all.sh
+ 
+11. This step is important. If the following processes are not running, then we should check the <<hadoop installation directory>>/logs for the actual issue.
+
+ 	$jps
+	13968 DataNode
+	14658 NodeManager
+	17585 Jps
+	13846 NameNode
+	14350 SecondaryNameNode
+	14528 ResourceManager
+ 
+12.
+	$ sbin/stop-all.sh
+	
+	output will be -
+	
+	Stopping namenodes on [localhost]
+	localhost: stopping namenode
+	localhost: stopping datanode
+	Stopping secondary namenodes [0.0.0.0]
+	0.0.0.0: stopping secondarynamenode
+	stopping yarn daemons
+	stopping resourcemanager
+	localhost: stopping nodemanager
+
+ 
+13.Run Actual test -
+	
+	Again we will do Step 11.
+	
+	$bin/hadoop fs -mkdir /hdinput // created directory within hdfs
+	$bin/hdfs dfs -copyFromLocal etc/hadoop/*.xml /hdinput
+	// We will be able to see files from http://localhost:50070/explorer.html#/hdinput - which are in hdfs
+	
+	//Run the job
+	$bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-2.6.0.jar grep /hdinput hdlatestoutput 'dfs[a-z.]+'
+	// Copy output to local directory
+	bin/hdfs dfs -copyToLocal /user/<<your username>>/hdlatestoutput <<your expected directory>>/output
+	
+14. Desired result will be -
+	_SUCCESS
+	part-r-00000
+ 
+	part-r-00000 will have result output.
+	
+	which is -
+	
+	1	dfsadmin
+	1	dfs.replication
+	

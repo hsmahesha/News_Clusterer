@@ -1,0 +1,1616 @@
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 11.888604 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.326407 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.212463 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.778114 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.964275 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.111735 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 13.143153 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.129229 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 13.276868 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.738511 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.993439 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.801184 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.768838 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 10.168674 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.693571 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.518318 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.075276 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.102962 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.237381 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 25.361137 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 21.8163 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 9.401492 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.977986 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.438323 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.04892 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.800229 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.559381 ms
+Dec 22, 2015 3:46:20 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 9.15017 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.748193 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.44952 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 9.643765 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 7.613358 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.26118 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.497428 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 7.156208 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.689411 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.802155 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.098016 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 14.407569 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.059104 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 7.840517 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.832846 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.577934 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.701912 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 12.573708 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.000514 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 14.623254 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 9.364918 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 14.047069 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.902879 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 14.130046 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.012499 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.000145 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.567549 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.040643 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.278016 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.426335 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.865152 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 16.387682 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 11.572478 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 27.021591 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 8.043236 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.965208 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 14.144231 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.046373 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.797971 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.957993 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.980838 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.500251 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.06627 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.227942 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.057169 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.024129 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 17.84307 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 7.992714 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.95106 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.000894 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.936725 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.463134 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 9.674133 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.44645 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.433976 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.379222 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.828996 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.459387 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.45053 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 7.401838 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.816003 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.831612 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 9.363163 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 7.381499 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.782984 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.860225 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.887971 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.259205 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.523828 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.897584 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.022734 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.486805 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.720163 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.521504 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.025584 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.920681 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.889527 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.908055 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.770488 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.528746 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.902438 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.321762 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.832123 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 8.010887 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.656517 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.658029 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.550307 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.707284 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.650073 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.509723 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.530306 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.707655 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.707774 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.751256 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.561253 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.031014 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.32403 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.311231 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.754854 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.96741 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.793816 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.926228 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.806874 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 13.563973 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.843153 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.750049 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.647354 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.915733 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 8.624093 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.887113 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.717949 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.887325 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.819167 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.87775 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.846346 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.822833 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.882189 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.534514 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.712687 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.693992 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.925556 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.822431 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.715708 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.672324 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.753163 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.744799 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.738215 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.495629 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.858912 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.884984 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.645115 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.70792 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.177086 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.741443 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.700484 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.753245 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.760662 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 12.596173 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.736411 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.180017 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 18.979678 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 7.852879 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 26.022653 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 9.918743 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 10.392411 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 14.524406 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.719063 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.663827 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.699134 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.692497 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.620009 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.575433 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.776607 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.961874 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.711748 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.725822 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.445173 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.747514 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.728678 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.646711 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.619553 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.177832 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.658773 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.668166 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.210494 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.482305 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.721555 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.648658 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.704533 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.698021 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 10.408522 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.683789 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.685534 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.318441 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 7.768235 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.249205 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 25.123199 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.477726 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.880953 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 31.811122 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 34.865256 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 24.334414 ms
+Dec 22, 2015 3:46:21 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 47.348778 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 35.27242 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 35.252333 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 51.482226 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 26.832418 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 12.048421 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 11.359645 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.488599 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 8.85998 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.671319 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 18.653204 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.357526 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.767837 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 7.075393 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.40612 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 8.67897 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.6956 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.034464 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.400079 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.039341 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.461631 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 13.201946 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.160639 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.439848 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.040733 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.036184 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.188196 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.510757 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.490689 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.222696 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 9.002113 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.354601 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 9.369391 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.318519 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.381226 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.353692 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.23554 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.330067 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.377868 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.562135 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.751328 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.051845 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.496943 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.902476 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.530682 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.979874 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.928718 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.150015 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.723955 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.674929 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.404347 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.469378 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.623124 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.492139 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.541274 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.419201 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.54202 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.344428 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.685186 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.647589 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 7.596262 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.488412 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.46387 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.324285 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.419047 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.488823 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.314072 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.424278 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.575276 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.462647 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.39467 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.708737 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.347922 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.346794 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.253652 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.487353 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.510261 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.277698 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.361379 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.332323 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.302575 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.283898 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.279849 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.359595 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.339891 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.33606 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.338562 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.995059 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.32572 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.40851 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.323394 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.332184 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.335541 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.284204 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.322043 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.332569 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.715037 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.665811 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.363721 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.348798 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.278336 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.309401 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.27522 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.276027 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.314548 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.360775 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.283911 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.335817 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.316682 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.365596 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.352806 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.421324 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.08414 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.832139 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.953734 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.479906 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.30769 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.289249 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.319675 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.255346 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.281778 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.234628 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.298498 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.282296 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.276618 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.356368 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.560152 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.770809 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.581256 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.608562 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.492662 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.375103 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.834069 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.646639 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.569965 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.68952 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.569549 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.559483 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.619486 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.533358 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.620072 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.80206 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.882635 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.910577 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.905704 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.926158 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.915817 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.013233 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 9.245634 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.855762 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.363671 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 12.516136 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.911142 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.700662 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.420802 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.612662 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.816463 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.489995 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.502352 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.234803 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.279399 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.578611 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 4.657722 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.267723 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.329753 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.319749 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.309123 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.35172 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 6.8548 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.438301 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.479351 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.44852 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.538546 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 5.406968 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.745325 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 1.877127 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.469795 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.628689 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 7.898386 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.618165 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.559783 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 8.649769 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.678204 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.671147 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 14.881392 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.333062 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.394431 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.46611 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 2.40767 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 3.905382 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.519884 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.456027 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.459668 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.18278 ms
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Starting the computation of Y'Y
+Dec 22, 2015 3:46:22 PM org.apache.mahout.math.als.ImplicitFeedbackAlternatingLeastSquaresSolver info
+INFO: Computed Y'Y in 0.35912 ms
