@@ -189,7 +189,7 @@ do
    if [ -d $line ]
    then
       echo -e '===========================================================' >> $result_file
-      echo -e "Group $count" >> $result_file 
+      echo -e "Cluster $count" >> $result_file 
       echo -e '===========================================================' >> $result_file
       seq_file=$line/part*
       $mahout vectordump -i $seq_file -o $line/dump.txt -d $dict_file -dt text -N nameOnly
