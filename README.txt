@@ -48,7 +48,7 @@ directory of 'NewsClusterer'.
 #==============================================================================#
 Result:
 #==============================================================================#
-The clutering result will be stored in the file './result/result.txt' 
+The clustering result will be stored in the file './result/result.txt' 
 #==============================================================================#
 
 
@@ -56,9 +56,9 @@ The clutering result will be stored in the file './result/result.txt'
 Note:
 #==============================================================================#
 At present, we use mahout's k-mean clustering algorithm by randomly setting the
-value of 'k' to 50. Also solr has been minimally tuned for term vectors. Hence,
-the result may not be accurate. However, there is a lot of scope for improving 
-the result including the setting up of an evaluation framework.
+value of 'k' to 50. Also, solr has been minimally tuned for term vectors. Hence,
+the result may not be that accurate. However, there is a lot of scope for
+improving the result, including the setting up of an evaluation framework.
 #==============================================================================#
 
 
