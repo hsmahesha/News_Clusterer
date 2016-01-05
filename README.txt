@@ -31,7 +31,8 @@ Technologies Used:
 Requirments:
 #==============================================================================#
 1. Linux Machine:
-2. Java (version 7 or above) installed on 1.
+2. Java (version 7 or above) installed on 1. And, the environment variable,
+   JAVA_HOME, must have been set accordingly.
 #==============================================================================#
 
 
