@@ -66,5 +66,5 @@ improving the result, including the setting up of an evaluation framework.
 Download Note:
 #==============================================================================#
 The project repository size is quite big (~1GB) as it includes binaries from
-four big apache open source projects. Hence, downloading may take some time.
+four big apache open source projects, and hence, downloading may take some time.
 #==============================================================================#
