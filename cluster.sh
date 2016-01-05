@@ -102,7 +102,7 @@ NUTCH_HOME=./nutch-1.10
 nutch=$NUTCH_HOME/bin/nutch
 crawldb=./news/nutch/crawl/crawldb
 segments=./news/nutch/crawl/segments
-linkdb=./news/nutch/crwal/linkdb
+linkdb=./news/nutch/crawl/linkdb
 urls=./news/nutch/urls
 
 # create seed.txt file and add seed urls to it.
@@ -123,14 +123,15 @@ echo "http://www.latimes.com/" >> $seed_file 2>&1
 echo "Message: Started crawling and indexing of news articles"
 sleep 2
 $nutch inject $crawldb $urls
-for i in `seq 1 2`;
+for i in `seq 1 3`;
 do
-   $nutch generate $crawldb $segments 
+   $nutch generate $crawldb $segments -topN 1000 
    s1=`ls -d $segments/2* | tail -1`
    $nutch fetch $s1
    $nutch parse $s1
    $nutch updatedb $crawldb $s1
-   $nutch solrindex http://127.0.0.1:8983/solr/core1 $crawldb $s1 
+   $nutch invertlinks $linkdb -dir $segments
+   $nutch solrindex http://127.0.0.1:8983/solr/core1 $crawldb $s1 -linkdb $linkdb 
 done
 
 sleep 3 
