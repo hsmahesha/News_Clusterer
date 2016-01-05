@@ -51,6 +51,7 @@ Result:
 The clutering result will be stored in the file './result/result.txt' 
 #==============================================================================#
 
+
 #==============================================================================#
 Note:
 #==============================================================================#
@@ -58,4 +59,12 @@ At present, we use mahout's k-mean clustering algorithm by randomly setting the
 value of 'k' to 50. Also solr has been minimally tuned for term vectors. Hence,
 the result may not be accurate. However, there is a lot of scope for improving 
 the result including the setting up of an evaluation framework.
+#==============================================================================#
+
+
+#==============================================================================#
+Download Note:
+#==============================================================================#
+The project repository size is quite big (~1GB) as it includes binaries from
+four big apache open source projects. Hence, download may take some time.
 #==============================================================================#
