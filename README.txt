@@ -1,9 +1,9 @@
 #==============================================================================#
 #                            NewsClusterer                                     #
 #==============================================================================#
-# 'NewsClusterer' is an inhouse developed project which attempt to cluster the # 
-# online news articles into different clusters, where all news articles in a   #
-# given single cluster may cover similar topic.                                #
+# 'NewsClusterer' is a machine learning project which attempt to automatically #
+# cluster the online news articles into different clusters, where all news     #
+# articles in a given single cluster may cover similar topic.                  #
 #==============================================================================#
 
 
