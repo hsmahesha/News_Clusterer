@@ -17,7 +17,7 @@ Technologies Used:
       Apache solr index all the nutch crawled news articles. Solr Undertow is
       used as an underlying web server.
 3. Apache Mahout (v0.11.1):
-      Apache mahout is used as an underlying machine learning tool. It takesi
+      Apache mahout is used as an underlying machine learning tool. It takes
       solr index (of news articles), convert it into lucene vectors, then apply 
       clustering algorithm on these lucene vectors.
 4. Apache Hadoop (v2.6.0):
