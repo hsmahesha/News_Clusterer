@@ -18,7 +18,13 @@ else
    rm -r ./temp/* > /dev/null 2>&1
 fi
 
-# clean up all temp directories in order to start from scratch
+# set home directories of hadoop, nutch, solr and mahout
+export HADOOP_HOME=./hadoop-2.6.0
+export SOLR_HOME=./solr-undertow-1.5.0
+export NUTCH_HOME=./nutch-1.10
+export MAHOUT_HOME=./mahout-0.11.1                      
+
+# clean up all temp directories and logs in order to start from scratch
 rm -r ./news/hadoop/* > /dev/null 2>&1
 rm -r ./news/solr/home/core1/data/* > /dev/null 2>&1
 rm -r ./news/solr/logs/* > /dev/null 2>&1
@@ -26,9 +32,12 @@ rm -r ./news/solr/temp/* > /dev/null 2>&1
 rm -r ./news/nutch/crawl/* > /dev/null 2>&1
 rm -r ./news/nutch/urls/* > /dev/null 2>&1
 rm -r ./news/mahout/* > /dev/null 2>&1
+rm -r $HADOOP_HOME/logs/* > /dev/null 2>&1
+rm -r $SOLR_HOME/logs/* > /dev/null 2>&1
+rm -r $NUTCH_HOME/logs/* > /dev/null 2>&1
+rm -r $MAHOUT_HOME/logs/* > /dev/null 2>&1
 
 # set hadoop related environment variables.
-export HADOOP_HOME=./hadoop-2.6.0                        
 export HADOOP_INSTALL=$HADOOP_HOME                                              
 export HADOOP_MAPRED_HOME=$HADOOP_HOME                                          
 export HADOOP_COMMON_HOME=$HADOOP_HOME                                          
@@ -71,15 +80,14 @@ fi
 sleep 2 
 
 # set solr related variables
-SOLR_HOME=./solr-undertow-1.5.0
+solr_log=./temp/solr.log
+undertow=$SOLR_HOME/bin/solr-undertow
+solr_conf=$SOLR_HOME/solr-4-6-1.conf
 
 # start undertow http server as a background job and deploy solr web application
 # within it
 echo "Message: Started the launching of solr undertow http server."
 sleep 2
-solr_log=./temp/solr.log
-undertow=$SOLR_HOME/bin/solr-undertow
-solr_conf=$SOLR_HOME/solr-4-6-1.conf
 $undertow $solr_conf > $solr_log 2>&1 &
 SOLR_ID=$!
 sleep 10  # set sleep time appropriately. otherwise below grepping of solr log 
@@ -98,7 +106,6 @@ fi
 sleep 2
 
 # nutch related variables
-NUTCH_HOME=./nutch-1.10
 nutch=$NUTCH_HOME/bin/nutch
 crawldb=./news/nutch/crawl/crawldb
 segments=./news/nutch/crawl/segments
@@ -145,7 +152,6 @@ sleep 3
 echo "Message: Indexing is done. Solr server is stopped."
 
 # mahout related variables
-MAHOUT_HOME=./mahout-0.11.1                      
 MAHOUT_LOCAL=true
 mahout=$MAHOUT_HOME/bin/mahout
 index_dir=./news/solr/home/core1/data/index 
@@ -206,7 +212,7 @@ echo "Message: Finished postprocessng of clustering result."
 # move final result file to ./result directory
 mv $result_file $final_result_file
 
-# clean up all temp directories
+# clean up all temp directories and logs
 rm -r ./news/hadoop/* > /dev/null 2>&1
 rm -r ./news/solr/home/core1/data/* > /dev/null 2>&1
 rm -r ./news/solr/logs/* > /dev/null 2>&1
@@ -214,6 +220,10 @@ rm -r ./news/solr/temp/* > /dev/null 2>&1
 rm -r ./news/nutch/crawl/* > /dev/null 2>&1
 rm -r ./news/nutch/urls/* > /dev/null 2>&1
 rm -r ./news/mahout/* > /dev/null 2>&1
+rm -r $HADOOP_HOME/logs/* > /dev/null 2>&1
+rm -r $SOLR_HOME/logs/* > /dev/null 2>&1
+rm -r $NUTCH_HOME/logs/* > /dev/null 2>&1
+rm -r $MAHOUT_HOME/logs/* > /dev/null 2>&1
 rm -r ./temp/* > /dev/null 2>&1
 
 # print final message
