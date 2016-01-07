@@ -60,7 +60,7 @@ then
 fi
 
 # re-format the hadoop namenode directory
-echo "Message: Started reformating of hadoop namenode directory"
+echo "Message: Reformating hadoop namenode directory"
 sleep 2
 y_file=./temp/y.txt
 hadoop_log=./temp/hadoop.log
@@ -86,7 +86,7 @@ solr_conf=$SOLR_HOME/solr-4-6-1.conf
 
 # start undertow http server as a background job and deploy solr web application
 # within it
-echo "Message: Started the launching of solr undertow http server."
+echo "Message: Starting up solr undertow http server."
 sleep 2
 $undertow $solr_conf > $solr_log 2>&1 &
 SOLR_ID=$!
@@ -130,14 +130,14 @@ echo "http://www.latimes.com/" >> $seed_file 2>&1
 echo "Message: Started crawling and indexing of news articles"
 sleep 2
 $nutch inject $crawldb $urls
-for i in `seq 1 3`;
+for i in `seq 1 2`;
 do
    $nutch generate $crawldb $segments -topN 1000 
    s1=`ls -d $segments/2* | tail -1`
    $nutch fetch $s1
    $nutch parse $s1
    $nutch updatedb $crawldb $s1
-   $nutch invertlinks $linkdb -dir $segments
+   $nutch invertlinks $linkdb -dir $segments 
    $nutch solrindex http://127.0.0.1:8983/solr/core1 $crawldb $s1 -linkdb $linkdb 
 done
 
