@@ -167,6 +167,7 @@ distance_measure=org.apache.mahout.common.distance.TanimotoDistanceMeasure
 group_file=./news/mahout/group.txt
 result_file=./news/mahout/result.txt
 final_result_file=./result/result.txt
+save_dict_file=./result/dict.txt
 count=1
 
 sleep 2
@@ -211,6 +212,10 @@ echo "Message: Finished postprocessng of clustering result."
 
 # move final result file to ./result directory
 mv $result_file $final_result_file
+
+# save dictionary file in result directory. Which helps to interpret the
+# solr/lucene selected terms.
+mv $dict_file $save_dict_file
 
 # clean up all temp directories and logs
 rm -r ./news/hadoop/* > /dev/null 2>&1
