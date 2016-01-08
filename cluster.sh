@@ -25,7 +25,8 @@ export NUTCH_HOME=./nutch-1.10
 export MAHOUT_HOME=./mahout-0.11.1                      
 
 # clean up all temp directories and logs in order to start from scratch
-rm -r ./news/hadoop/* > /dev/null 2>&1
+rm -r ./news/hadoop/namenode/* > /dev/null 2>&1
+rm -r ./news/hadoop/datanode/* > /dev/null 2>&1
 rm -r ./news/solr/home/core1/data/* > /dev/null 2>&1
 rm -r ./news/solr/logs/* > /dev/null 2>&1
 rm -r ./news/solr/temp/* > /dev/null 2>&1
@@ -38,6 +39,7 @@ rm -r $NUTCH_HOME/logs/* > /dev/null 2>&1
 rm -r $MAHOUT_HOME/logs/* > /dev/null 2>&1
 
 # set hadoop related environment variables.
+export HADOOP_PREFIX=$HADOOP_HOME
 export HADOOP_INSTALL=$HADOOP_HOME                                              
 export HADOOP_MAPRED_HOME=$HADOOP_HOME                                          
 export HADOOP_COMMON_HOME=$HADOOP_HOME                                          
@@ -58,26 +60,6 @@ then
    mkdir $hfsd
    chmod 777 $hfsd
 fi
-
-# re-format the hadoop namenode directory
-echo "Message: Reformating hadoop namenode directory"
-sleep 2
-y_file=./temp/y.txt
-hadoop_log=./temp/hadoop.log
-hdfs=$HADOOP_HOME/bin/hdfs
-echo "Y" > $y_file 2>&1
-$hdfs namenode -format $hadoop_log > $hadoop_log 2>&1 < $y_file
-sleep 2
-grep -q "has been successfully formatted" $hadoop_log
-if [ $? -eq 0 ]
-then
-   echo "Message: Finished reformating of hadoop namendode directory."
-else
-   echo "Error: Reformating of hadoop namenode directory failed. Please check it."
-   exit 1
-fi
-
-sleep 2 
 
 # set solr related variables
 solr_log=./temp/solr.log
@@ -218,7 +200,8 @@ mv $result_file $final_result_file
 mv $dict_file $save_dict_file
 
 # clean up all temp directories and logs
-rm -r ./news/hadoop/* > /dev/null 2>&1
+rm -r ./news/hadoop/namenode/* > /dev/null 2>&1
+rm -r ./news/hadoop/datanode/* > /dev/null 2>&1
 rm -r ./news/solr/home/core1/data/* > /dev/null 2>&1
 rm -r ./news/solr/logs/* > /dev/null 2>&1
 rm -r ./news/solr/temp/* > /dev/null 2>&1
