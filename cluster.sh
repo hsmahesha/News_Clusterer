@@ -34,6 +34,7 @@ rm -r ./news/solr/temp/* > /dev/null 2>&1
 rm -r ./news/nutch/crawl/* > /dev/null 2>&1
 rm -r ./news/nutch/urls/* > /dev/null 2>&1
 rm -r ./news/mahout/* > /dev/null 2>&1
+rm -r ./result/* > /dev/null 2>&1 
 rm -r $HADOOP_HOME/logs/* > /dev/null 2>&1
 rm -r $SOLR_HOME/logs/* > /dev/null 2>&1
 rm -r $NUTCH_HOME/logs/* > /dev/null 2>&1

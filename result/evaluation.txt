@@ -1,1 +1,1 @@
-Silhouettes Score = 0.262801884435
+Silhouettes Score = 0.177060887237
