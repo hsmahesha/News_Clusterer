@@ -112,7 +112,7 @@ echo "http://www.latimes.com/" >> $seed_file 2>&1
 echo "Message: Started crawling and indexing of news articles"
 sleep 2
 $nutch inject $crawldb $urls
-for i in `seq 1 2`;
+for i in `seq 1 1`;
 do
    $nutch generate $crawldb $segments -topN 1000 
    s1=`ls -d $segments/2* | tail -1`
@@ -133,23 +133,24 @@ echo ""
 sleep 3 
 echo "Message: Indexing is done. Solr server is stopped."
 
+# final results are stored here
+res_dir=./result
+result_file=./res_dir/result.txt
+
 # mahout related variables
 MAHOUT_LOCAL=true
 mahout=$MAHOUT_HOME/bin/mahout
 index_dir=./news/solr/home/core1/data/index 
-vec_dir=./news/mahout/lucene_vector
-vec_file=$vec_dir/vec
-dict_file=$vec_dir/dict
-cluster_dir=./news/mahout/cluster
-init_dir=./news/mahout/init
-group_dir=./news/mahout/group
+in_dir=./news/mahout/input
+vec_file=$in_dir/vector-00000
+dict_file=$in_dir/dictionary.txt
+out_dir=./news/mahout/output
+seed_dir=./news/mahout/seed
+cpp_dir=./news/mahout/cpp
 k=50
 max_iter=20
 distance_measure=org.apache.mahout.common.distance.TanimotoDistanceMeasure
-group_file=./news/mahout/group.txt
-result_file=./news/mahout/result.txt
-final_result_file=./result/result.txt
-save_dict_file=./result/dict.txt
+cpp_list_file=./news/mahout/cpp_list.txt
 count=1
 
 sleep 2
@@ -163,7 +164,7 @@ echo "Message: Finished getting lucene vectors."
 sleep 2
 echo "Message: Clustering news articles using mahout clustering algorithm."
 sleep 2
-$mahout kmeans -i $vec_file -o $cluster_dir -c $init_dir -k $k \
+$mahout kmeans -i $vec_file -o $out_dir -c $seed_dir -k $k \
 -x $max_iter -dm $distance_measure -cl -ow
 sleep 2
 echo "Message: Finished clustering of news articles."
@@ -171,9 +172,9 @@ echo "Message: Finished clustering of news articles."
 sleep 2                                                                         
 echo "Message: Postprocessng the clustering result."     
 sleep 2
-$mahout clusterpp -i $cluster_dir -o $group_dir -ow
+$mahout clusterpp -i $out_dir -o $cpp_dir -ow
 sleep 2
-ls -d1 $group_dir/* > $group_file 2>&1
+ls -d1 $cpp_dir/* > $cpp_list_file 2>&1
 while read line
 do 
    if [ -d $line ]
@@ -192,12 +193,9 @@ done < $group_file
 sleep 2
 echo "Message: Finished postprocessng of clustering result."
 
-# move final result file to ./result directory
-mv $result_file $final_result_file
-
 # save dictionary file in result directory. Which helps to interpret the
 # solr/lucene selected terms.
-mv $dict_file $save_dict_file
+cp $dict_file $res_dir/
 
 # clean up all temp directories and logs
 rm -r ./news/hadoop/namenode/* > /dev/null 2>&1
