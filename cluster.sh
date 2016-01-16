@@ -145,12 +145,13 @@ MAHOUT_LOCAL=true
 mahout=$MAHOUT_HOME/bin/mahout
 index_dir=./news/solr/home/core1/data/index 
 in_dir=./news/mahout/input
-vec_file=$in_dir/vector-00000
+vec_seq_file=$in_dir/vector-00000
+vec_text_file=$in_dir/vector.txt
 dict_file=$in_dir/dictionary.txt
+num_vec_file=$in_dir/num_vecs.txt
 out_dir=./news/mahout/output
 seed_dir=./news/mahout/seed
 cpp_dir=./news/mahout/cpp
-k=50
 max_iter=20
 distance_measure=org.apache.mahout.common.distance.TanimotoDistanceMeasure
 cpp_list_file=./news/mahout/cpp_list.txt
@@ -159,19 +160,32 @@ count=1
 sleep 2
 echo "Message: Getting lucene vectors from solr index."
 sleep 2
-$mahout lucene.vector -d $index_dir -o $vec_file -t $dict_file \
+$mahout lucene.vector -d $index_dir -o $vec_seq_file -t $dict_file \
 --idField id  -f text -n 2 -w TFIDF
 sleep 2
 echo "Message: Finished getting lucene vectors."
 
+sleep 2
+echo "Message: Getting the total number of vectors."
 # save dictionary file in result directory. Which helps to interpret the
 # solr/lucene selected terms.
 cp $dict_file $res_dir/
 
+# get the total number of vectors
+$mahout vectordump -i $vec_seq_file -o $vec_text_file
+
+#get the value of k as sqrt(n/2) where n is the number of vectors
+cat $vec_text_file | wc -l > $num_vec_file
+let k=$(cat $num_vec_file)
+k=$(echo "sqrt($k/2)" | bc -l)
+let k=${k%.*}
+sleep 2
+echo "Message: Finished etting the total number of vectors"
+
 sleep 2
 echo "Message: Clustering news articles using mahout clustering algorithm."
 sleep 2
-$mahout kmeans -i $vec_file -o $out_dir -c $seed_dir -k $k \
+$mahout kmeans -i $vec_seq_file -o $out_dir -c $seed_dir -k $k \
 -x $max_iter -dm $distance_measure -cl -ow
 sleep 2
 echo "Message: Finished clustering of news articles."
