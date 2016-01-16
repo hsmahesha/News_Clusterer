@@ -33,6 +33,7 @@ rm -r ./news/solr/temp/* > /dev/null 2>&1
 rm -r ./news/nutch/crawl/* > /dev/null 2>&1
 rm -r ./news/nutch/urls/* > /dev/null 2>&1
 rm -r ./news/mahout/* > /dev/null 2>&1
+rm -r ./result/* > /dev/null 2>&1
 rm -r $HADOOP_HOME/logs/* > /dev/null 2>&1
 rm -r $SOLR_HOME/logs/* > /dev/null 2>&1
 rm -r $NUTCH_HOME/logs/* > /dev/null 2>&1
@@ -135,7 +136,8 @@ echo "Message: Indexing is done. Solr server is stopped."
 
 # final results are stored here
 res_dir=./result
-result_file=./res_dir/result.txt
+result_file=./$res_dir/result.txt
+touch result_file
 
 # mahout related variables
 MAHOUT_LOCAL=true
@@ -189,9 +191,10 @@ do
       echo -e "" >> $result_file
       count=`expr $count + 1`
    fi
-done < $group_file 
+done < $cpp_list_file
 sleep 2
 echo "Message: Finished postprocessng of clustering result."
+
 
 # save dictionary file in result directory. Which helps to interpret the
 # solr/lucene selected terms.
