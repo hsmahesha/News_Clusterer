@@ -54,7 +54,7 @@ The clustering result will be stored in the file './result/result.txt'
 
 
 #==============================================================================#
-Note:
+Summary:
 #==============================================================================#
 1. Mahout k-mean algorithm is used for clustering. Value of k is set to
    sqrt(n/2) where 'n' is the total number of document vectors.
