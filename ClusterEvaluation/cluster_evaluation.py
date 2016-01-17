@@ -55,9 +55,6 @@ def evaluate_clusters():
     labelArr, vecArr = read_cpp_file(cppFile, numTerms)
     cppFile.close()
 
-    print (len(labelArr))
-    print (len(vecArr))
-
     eVal = get_evaluation_score(labelArr, vecArr, 'euclidean')
 
     oFile = open_out_file()
