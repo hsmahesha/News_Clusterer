@@ -49,7 +49,7 @@ directory of 'NewsClusterer'.
 #==============================================================================#
 Result:
 #==============================================================================#
-The clustering result will be stored in the file './result/result.txt' 
+The clustering result will be stored in the directory './result/' 
 #==============================================================================#
 
 
