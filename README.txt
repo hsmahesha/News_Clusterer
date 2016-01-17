@@ -58,7 +58,7 @@ Summary:
 #==============================================================================#
 1. Mahout k-mean algorithm is used for clustering. Value of k is set to
    sqrt(n/2) where 'n' is the total number of document vectors.
-2. SED tool is used to post process the clustering result.
+2. SED tool is used to post-process the clustering result.
 3. The sed processed result is fed to python scikit-learn to evaluate the
    clustering result. Result is evaluated using 'Silhouette score'.
 4. Two distance measures namely - Tanimato Measure (Extened Jaccard Measure)
