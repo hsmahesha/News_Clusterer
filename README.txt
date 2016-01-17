@@ -73,10 +73,10 @@ Future Scope of Work:
 There exists lot of scope for improving the result.
 1. We may tune nutch to control the crawling, and there by to get the more
    meaningful crawl results. 
-2. We may tune the solr/lucene schmema file to control the terms to be indexed.
+2. We may tune the solr/lucene schema file to control the terms to be indexed.
 3. We may use other methods to chose the more better value for 'k' to be used 
    in k-mean algorithm, or we may explore other clustering algorithms.
-4. We may explore other (complecated and may be better) techniques for cluster
+4. We may explore other (complicated and may be better) techniques for cluster
    evaluation.
 #==============================================================================#
 
