@@ -33,6 +33,7 @@ Requirements:
 1. Linux Machine:
 2. Java (version 7 or above) installed on 1. And, the environment variable,
    JAVA_HOME, must have been set accordingly.
+3. Python and scikit-learn installed on 1.
 #==============================================================================#
 
 
@@ -55,10 +56,28 @@ The clustering result will be stored in the file './result/result.txt'
 #==============================================================================#
 Note:
 #==============================================================================#
-At present, we use mahout's k-mean clustering algorithm by randomly setting the
-value of 'k' to 50. Also, solr has been minimally tuned for term vectors. Hence,
-the result may not be that accurate. However, there is a lot of scope for
-improving the result, including the setting up of an evaluation framework.
+1. Mahout k-mean algorithm is used for clustering. Value of k is set to
+   sqrt(n/2) where 'n' is the total number of document vectors.
+2. SED tool is used to post process the clustering result.
+3. The sed processed result is fed to python scikit-learn to evaluate the
+   clustering result. Result is evaluated using 'Silhouette score'.
+4. Two distance measures namely - Tanimato Measure (Extened Jaccard Measure)
+   and Cosine Similarity Measure, are compared. Result is slightly better for
+   Tanimato Measure.
+#==============================================================================#
+
+
+#==============================================================================#
+Future Scope of Work:
+#==============================================================================#
+There exists lot of scope for improving the result.
+1. We may tune nutch to control the crawling, and there by to get the more
+   meaningful crawl results. 
+2. We may tune the solr/lucene schmema file to control the terms to be indexed.
+3. We may use other methods to chose the more better value for 'k' to be used 
+   in k-mean algorithm, or we may explore other clustering algorithms.
+4. We may explore other (complecated and may be better) techniques for cluster
+   evaluation.
 #==============================================================================#
 
 
