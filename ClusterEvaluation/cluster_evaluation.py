@@ -58,7 +58,7 @@ def evaluate_clusters():
     eVal = get_evaluation_score(labelArr, vecArr, 'euclidean')
 
     oFile = open_out_file()
-    outStr = "Silhouettes Score = " + str(eVal) + "\n"
+    outStr = "Silhouette Score = " + str(eVal) + "\n"
     oFile.write(outStr)
     oFile.close() 
 
