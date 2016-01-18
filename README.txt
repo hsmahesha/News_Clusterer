@@ -24,6 +24,8 @@ Technologies Used:
       Hadoop can be (optionally) used as an underlying distributed computing 
       platform. Hadoop has been set up as a single node cluster. And is turned
       off as of now. However, we can turn it on based on need.
+5. Python and Scikit-learn: 
+      Python and Scikit-learn is used for cluster evaluation.
 #==============================================================================#
 
 
@@ -60,7 +62,7 @@ Summary:
    sqrt(n/2) where 'n' is the total number of document vectors.
 2. SED tool is used to post-process the clustering result.
 3. The sed processed result is fed to python scikit-learn to evaluate the
-   clustering result. Result is evaluated using 'Silhouette score'.
+   clustering result. Result is evaluated by computing 'Silhouette score'.
 4. Two distance measures namely - Tanimato Measure (Extened Jaccard Measure)
    and Cosine Similarity Measure, are compared. Result is slightly better for
    Tanimato Measure.
