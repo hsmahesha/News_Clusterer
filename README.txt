@@ -1,9 +1,9 @@
 #==============================================================================#
 #                            NewsClusterer                                     #
 #==============================================================================#
-# 'NewsClusterer' is a machine learning project which attempt to automatically #
-# cluster the online news articles into different clusters, where all news     #
-# articles in a given single cluster may cover similar topic.                  #
+# 'NewsClusterer' is an experimental machine learning project which attempt    #
+# to automatically cluster the online news articles into different clusters,   #
+# where all news articles in a given single cluster may cover similar topic.   #
 #==============================================================================#
 
 
@@ -64,13 +64,12 @@ Summary:
 3. The sed processed result is fed to python scikit-learn to evaluate the
    clustering result. Result is evaluated by computing 'Silhouette score'.
 4. Two distance measures namely - Tanimato Measure (Extened Jaccard Measure)
-   and Cosine Similarity Measure, are compared. Result is slightly better for
-   Tanimato Measure.
+   and Cosine Similarity Measure, are compared.
 #==============================================================================#
 
 
 #==============================================================================#
-Future Scope of Work:
+Future Work:
 #==============================================================================#
 There exists lot of scope for improving the result.
 1. We may tune nutch to control the crawling, and there by to get the more
