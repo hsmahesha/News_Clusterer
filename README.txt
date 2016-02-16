@@ -1,7 +1,7 @@
 #==============================================================================#
 #                            NewsClusterer                                     #
 #==============================================================================#
-# 'NewsClusterer' is an experimental machine learning project which attempt    #
+# 'NewsClusterer' is an experimental machine learning project which attempts   #
 # to automatically cluster the online news articles into different clusters,   #
 # where all news articles in a given single cluster may cover similar topic.   #
 #==============================================================================#
